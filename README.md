@@ -9,12 +9,12 @@
 
 <h2 align="Center">My</h2>
 
-<p align="center"> - 🌱 I’m currently learning **Swift,Flutter** </p>
+<p align="center"> - 🌱 I’m currently learning Swift,Flutter </p>
   
 
 <p align="center">  - 👨‍💻 All of my projects are available at [https://github.com/yunus-alparslan?tab=repositories] </p>
 
-<p align="center"> - 📫 How to reach me **eyunusalparslan@gmail.com** </p>
+<p align="center"> - 📫 How to reach me = eyunusalparslan@gmail.com</p>
 
 
 <h2 align="center">Connect With Me</h2>

@@ -20,7 +20,7 @@
 <h2 align="center">Connect With Me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yunus-alparslan-7730a3260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yunus-alparslan-7730a3260/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yunus alparslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yunus alparslan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=5nWFb7PUtxU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yunus alparslan" height="30" width="40" /></a>
 </p>
 
 </br>

@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yunus Alparslan</h1>
 <h3 align="center">A passionate Ios Developer from Türkiye</h3>
 
+<p align="center">
+  
+Merhaba Mobil uygulama geliştirme alanında tutkulu bir yazılım geliştiriciyim
+
+Dart ve Swift dillerini kullanarak, modern ve kullanıcı dostu mobil uygulamalar geliştirmek için çaba sarf ediyorum. Kullanıcı deneyimi tasarımına özel bir ilgi duyuyor ve her projemde bu konuya önem veriyorum.
+
+Ayrıca, açık kaynaklı projelere katkıda bulunmayı seviyorum ve teknoloji alanındaki gelişmeleri yakından takip ediyorum.
+</p>
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yunus-alparslan&label=Profile%20views&color=0e75b6&style=flat" alt="yunus-alparslan" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunus-alparslan" alt="yunus-alparslan" /></a> </p>

@@ -2,6 +2,15 @@
 <h3 align="center">A passionate Ios Developer from Türkiye</h3>
 
 <p align="center"> Merhaba Mobil uygulama geliştirme alanında tutkulu bir yazılım geliştiriciyim Dart ve Swift dillerini kullanarak, modern ve kullanıcı dostu mobil uygulamalar geliştirmek için çaba sarf ediyorum. Kullanıcı deneyimi tasarımına özel bir ilgi duyuyor ve her projemde bu konuya önem veriyorum. Ayrıca, açık kaynaklı projelere katkıda bulunmayı seviyorum ve teknoloji alanındaki gelişmeleri yakından takip ediyorum.
+</br>
+
+<p align="center"> I am a passionate software developer in the field of mobile application development. I strive to develop modern and user-friendly mobile applications using Dart and Swift programming languages. I have a special interest in user experience design and prioritize it in every project. Additionally, I enjoy contributing to open-source projects and closely follow developments in the technology field.
+</br>
+
+
+
+</p>
+
 </p>
 
 

@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yunus Alparslan</h1>
 <h3 align="center">A passionate Ios Developer from Türkiye</h3>
 
-<p align="center">
-  
-Merhaba Mobil uygulama geliştirme alanında tutkulu bir yazılım geliştiriciyim
-
-Dart ve Swift dillerini kullanarak, modern ve kullanıcı dostu mobil uygulamalar geliştirmek için çaba sarf ediyorum. Kullanıcı deneyimi tasarımına özel bir ilgi duyuyor ve her projemde bu konuya önem veriyorum.
-
-Ayrıca, açık kaynaklı projelere katkıda bulunmayı seviyorum ve teknoloji alanındaki gelişmeleri yakından takip ediyorum.
+<p align="center"> Merhaba Mobil uygulama geliştirme alanında tutkulu bir yazılım geliştiriciyim Dart ve Swift dillerini kullanarak, modern ve kullanıcı dostu mobil uygulamalar geliştirmek için çaba sarf ediyorum. Kullanıcı deneyimi tasarımına özel bir ilgi duyuyor ve her projemde bu konuya önem veriyorum. Ayrıca, açık kaynaklı projelere katkıda bulunmayı seviyorum ve teknoloji alanındaki gelişmeleri yakından takip ediyorum.
 </p>
 
 

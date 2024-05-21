@@ -6,7 +6,7 @@
 <p align="center"> <img align="center" src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" alt="html5" />  </p>
 
 
-<p align="center"> Merhaba Mobil uygulama geliştirme alanında tutkulu bir yazılım geliştiriciyim Dart ve Swift dillerini kullanarak, modern ve kullanıcı dostu mobil uygulamalar geliştirmek için çaba sarf ediyorum. Kullanıcı deneyimi tasarımına özel bir ilgi duyuyor ve her projemde bu konuya önem veriyorum. Ayrıca, açık kaynaklı projelere katkıda bulunmayı seviyorum ve teknoloji alanındaki gelişmeleri yakından takip ediyorum.
+<p align="center"> Merhaba Mobil uygulama geliştirme alanında tutkulu bir yazılım geliştiriciyim  Swift dillerini kullanarak, modern ve kullanıcı dostu mobil uygulamalar geliştirmek için çaba sarf ediyorum. Kullanıcı deneyimi tasarımına özel bir ilgi duyuyor ve her projemde bu konuya önem veriyorum. Ayrıca, açık kaynaklı projelere katkıda bulunmayı seviyorum ve teknoloji alanındaki gelişmeleri yakından takip ediyorum.
 </br>
 
 <p align="center"> I am a passionate software developer in the field of mobile application development. I strive to develop modern and user-friendly mobile applications using Dart and Swift programming languages. I have a special interest in user experience design and prioritize it in every project. Additionally, I enjoy contributing to open-source projects and closely follow developments in the technology field.
@@ -51,8 +51,6 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 

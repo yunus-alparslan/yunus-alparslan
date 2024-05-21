@@ -26,7 +26,7 @@
 
 <h2 align="Center">My 😊 </h2>
 
-<p align="center"> - 🌱 I’m currently learning Swift,Flutter </p>
+<p align="center"> - 🌱 I’m currently learning Swift </p>
   
 
 <p align="center">  - 👨‍💻 All of my projects are available at [https://github.com/yunus-alparslan?tab=repositories] </p>
